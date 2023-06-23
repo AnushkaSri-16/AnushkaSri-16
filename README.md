@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 -->
-  <a href="your-twitter-URL">
+<!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=AnushkaSri-16&style=flat-square&color=blue" alt=""/>
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="300" height="350"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="200" height="250"/>
 </div>
 
 ---
@@ -34,7 +34,7 @@ I am a Java Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring Backend Development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and play Guitar. 
+- :zap: In my free time, I solve problems on Leetcode and play Guitar. 
 <!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 -->

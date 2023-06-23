@@ -57,13 +57,13 @@ I am a Java Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats :
+<!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnushkaSri-16&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaSri-16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts :
+<!--### :writing_hand: Blog Posts :-->
 
 
 <!--

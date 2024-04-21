@@ -29,12 +29,17 @@
 
 ---
 ### :woman_technologist: About Me :
-I am an aspiring Java Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m an ambitious learner, in the process of building my life and willing contribute to backend as well as frontend for building web applications.
 
-- :seedling: Exploring Backend Development.
+- :seedling: 
 
-- :zap: In my free time, I solve problems on Leetcode or play Guitar. 
+  I’m an ambitious learner, diving into the world of cybersecurity while also honing my skills in both cybersecurity and blue teaming  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+
+- :shield: Exploring Cybersecurity alongside Blue Teaming.
+  
+- :zap: In my free time, I solve security challenges on platforms like HackerRank or play Guitar
+
+
 <!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 -->
